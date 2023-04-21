@@ -11,6 +11,20 @@
     width: 325px;
 }
 
+.cor-btn {
+    display: inline-block;
+    background: #9353FF;
+}
+
+.cor-verde {
+    color: #DAFF01;
+}
+
+.cor-borda-btn {
+    padding: 0 8px;
+    border: 1px solid #9353FF;
+}
+
 @media(min-width: 768px) {
 
     .div-novidades {
